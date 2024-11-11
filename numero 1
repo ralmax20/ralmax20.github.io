@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Cumpleaños Karlita</title>
+    <style>
+        /* Estilos básicos */
+        .bgoverlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            max-width: 80%;
+            width: 600px;
+        }
+        .ico {
+            font-size: 24px;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        .ico2 {
+            background: url('your-icon.png') no-repeat;
+        }
+        .title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .endtext h1 {
+            font-size: 20px;
+            color: #333;
+        }
+        .close {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div class="bgoverlay">
+  <div class="container">
+    <span class="ico">
+      <span class="ico2"></span>
+      <span class="title">presioname</span>
+    </span>
+    <div class="endtext">
+      <span class="close" title="Close"><i class="fa fa-times"></i></span>  
+      <h1>FELIZ CUMPLEANOS Karlita, que te la pases muy bien y feliz en este día tan especial en el que nació el amor de mi vida, la niña que amo con todo mi ser, la niña más hermosa del universo. No existe nada en el universo para comparar su belleza, porque ella es más bella y hermosa que todas las cosas del universo. Me gustas y me encantas demasiado, esos ojitos tan bellos que cuando los miro siento que se detiene el tiempo. Eres la razón para que yo siempre esté feliz y sonriendo. Te amo más de lo que las palabras puedan decir. Perdón si no puedo expresar de la mejor manera todo lo que te amo y siento por ti, pero ninguna palabra o cosa del universo o el infinito podría expresar lo mucho que te amo. Eres mi lugar especial y favorito en el mundo. El tiempo se detiene cuando estoy contigo. Cada lindo momento que pasamos los dos juntos es un regalo, un tesoro para mí que aprecio con todo mi ser. Te amo mucho. FANIS </h1>
+      <h2>~</h2>
+      <h3>De tu Novio, Josue</h3>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
